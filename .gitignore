@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Zenn local preview generated files
+.zenn-preview/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.vscode/
